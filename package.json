@@ -1,0 +1,23 @@
+{
+  "name": "@nhlimon1994/my-test-package",
+  "version": "1.0.0",
+  "description": "a test npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhlimon1994/my-test-npm-package.git"
+  },
+  "keywords": [
+    "test",
+    "npm"
+  ],
+  "author": "Nhlimon2994",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhlimon1994/my-test-npm-package/issues"
+  },
+  "homepage": "https://github.com/nhlimon1994/my-test-npm-package#readme"
+}
